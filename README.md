@@ -36,9 +36,6 @@ Para cumplir con los requisitos del ejercicio, cada archivo debe mantener su nom
 * **Versión Inicial:** `1.0.0`
 * **Versión Optimizada:** `1.1.0` (o similar)
 
-> **Nota para la entrega en Eminus:**
-> Al realizar la entrega, asegúrese de que el repositorio sea **público** y de incluir en la descripción del envío las versiones entregadas (ej. `python_no_opt.py v1.1.0`, `c_no_opt.c v1.1.0`).
-
 ---
 
 ## Ejecución y Pruebas
