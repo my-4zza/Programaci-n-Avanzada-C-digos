@@ -59,7 +59,7 @@ int main() {
 
     printf("Primos encontrados: %d\n", count_primos);
     printf("Suma de primos: %lld\n", suma_primos);
-    printf("Primos pares: %d\n", primos_pares);
+    printf("Primos pares.:%d\n", primos_pares);
     printf("Primos impares: %d\n", primos_impares);
 
     return 0;
